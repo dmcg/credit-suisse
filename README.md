@@ -2,18 +2,16 @@
 
 ## UNCLEAR FROM THE SPEC
 
-Are we shipping a program or a library? 
-Top 10 buy OR sells or buy AND sells?
-There is a record of the market with all the trades?
-How can cancelling an order remove it if it wasn't in the top 10?
-What does live orders mean?  
-What about the missing coin types in the example?
-Are there any BUY order examples?
-Is the order board only for SELLs?
-Should BUYs be netted against SELLs?
-What does registered mean?
-Can I cancel an order that is not on the board?
-Should the board show only one coin type or all?
+* Are we shipping a program or a library? 
+* Top 10 buy OR sells or buy AND sells?
+* There is a record of the market with all the trades?
+* Can cancelling an order remove it if it wasn't in the top 10?
+* What does live orders mean?  
+* What about the missing coin types in the example?
+* Should BUYs be netted against SELLs?
+* What does registered mean?
+* Can I cancel an order that is not on the board?
+* Should the board show only one coin type or all?
 
 ## ASSUMPTIONS MADE 
 
